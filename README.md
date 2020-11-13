@@ -6,6 +6,7 @@ This repo will converta folder of html files into word documents
 * python 3
 
 ## dependencies
-* TBA
+* python-docx https://python-docx.readthedocs.io/en/latest/
+
 
 
