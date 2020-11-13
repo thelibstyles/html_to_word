@@ -1,6 +1,6 @@
 # html_to_word
 
-This repo will converta folder of html files into word documents
+This repo will convert a folder of html files into word documents
 
 ## language
 * python 3
